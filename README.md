@@ -20,7 +20,7 @@ You could download the python scripts and copy them to your PATH (e.g., /usr/loc
 
 
 ## Configuration
-Each of the scripts has the following lines that need to be updated with the correct information.
+Each of the scripts has the following lines that need to be updated with the correct information.  Find these lines in the main() section.
 ```    
 dbhost = "DBHOST"
 dbuser = "DBUSER"
